@@ -60,7 +60,14 @@ More instructions...
 
 | Skill | Description |
 |-------|-------------|
-| *Add your skills here* | |
+| [compound-engineering](./compound-engineering/) | Compound Engineering workflow for AI-assisted development |
+| [dev-browser](./dev-browser/) | Browser automation with persistent page state |
+| [docx](./docx/) | Document creation, editing, and analysis for .docx files |
+| [frontend-design](./frontend-design/) | Create distinctive, production-grade frontend interfaces |
+| [pdf](./pdf/) | PDF manipulation toolkit for text extraction, creation, and forms |
+| [prd](./prd/) | Generate Product Requirements Documents |
+| [ralph](./ralph/) | Set up Ralph for autonomous feature development |
+| [session-start-hook](./session-start-hook/) | Startup hooks for Claude Code on the web |
 
 ## License
 
